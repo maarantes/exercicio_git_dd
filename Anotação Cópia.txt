@@ -6,10 +6,5 @@ tudo certinho e vc
 teste para dar conflito
 pro fabricio corrigir
 
-<<<<<<< HEAD
-mudei mais ainda linha
-essa linha aqui então nem me fale
-=======
 teste mudei essa linha
 eu também mudei essa linha
->>>>>>> origin/main
